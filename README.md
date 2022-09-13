@@ -49,7 +49,10 @@ An ecommerce inventory control prototype driven by sequelize
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-![Product Name Screen Shot][product-screenshot]
+[Using the project with Insomnia](https://watch.screencastify.com/v/dqdbWrpNtivK6W8BPadD)
+
+[Fixed a small bug in the get single product route](https://watch.screencastify.com/v/TvSfyIdX2LY5uDK97mvc)
+
 This project is a nascent inventory control backend for an ecommerce site.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
